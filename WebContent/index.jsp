@@ -23,12 +23,13 @@
 	
 		<fmt:message key="label.greeting"></fmt:message><br/><br/>
 		<fmt:message key="label.firstname"></fmt:message> <i>Asif</i><br/>
-		<fmt:message key="label.lastname"></fmt:message> <i>Parvez</i><br/><br/>
+		<fmt:message key="label.lastname"></fmt:message> <i>Sarker</i><br/><br/>
 		<fmt:message key="label.welcome"></fmt:message> <br/>   
 		
 		<hr>
 		
 		Selected Local : ${theLocale }
+		
 		
 		
 	</body>
